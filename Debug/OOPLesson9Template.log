@@ -1,0 +1,4 @@
+﻿  OOPLesson9Template.cpp
+C:\Users\dev\source\repos\OOPLesson9Template\OOPLesson9Template\OOPLesson9Template.cpp(11,36): warning C4838: conversion from 'double' to 'int' requires a narrowing conversion
+C:\Users\dev\source\repos\OOPLesson9Template\OOPLesson9Template\OOPLesson9Template.cpp(11,36): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  OOPLesson9Template.vcxproj -> C:\Users\dev\source\repos\OOPLesson9Template\Debug\OOPLesson9Template.exe
